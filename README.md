@@ -47,7 +47,7 @@ that benefit both personal and professional development.
 
 # Key Features
 
-# Cross-Platform Accessibility: 
+1. Cross-Platform Accessibility: 
 The platform’s web and mobile apps ensure that alumni can access the features and services anytime, anywhere, making the experience more convenient and accessible.
 
 # User-Centric Design:
